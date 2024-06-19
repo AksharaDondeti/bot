@@ -186,7 +186,7 @@ stories:
       - action: utter_worthless
       - intent: suicide
       - action: utter_suicide
-      - action: utter_hotlines
+
 
 - story: user expresses depression and sleep
   steps:

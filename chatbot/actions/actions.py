@@ -25,12 +25,12 @@
 #         dispatcher.utter_message(text="Hello World!")
 #
 #         return []
-import nrclex
-from nrclex import NRCLex
-from rasa_sdk.types import DomainDict
-from typing import Any, Text, Dict, List
-from rasa_sdk import Action, Tracker
-from rasa_sdk.executor import CollectingDispatcher
+# import nrclex
+# from nrclex import NRCLex
+# from rasa_sdk.types import DomainDict
+# from typing import Any, Text, Dict, List
+# from rasa_sdk import Action, Tracker
+# from rasa_sdk.executor import CollectingDispatcher
 
 
 # class ActionAcknowledgeSuicide(Action):

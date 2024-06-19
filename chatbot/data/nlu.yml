@@ -178,7 +178,8 @@ nlu:
   examples: |
     - How can I maintain social connections? What if I feel lonely?
     - I feel lonely?How to socialize?
-    -
+    - I feel really lonely
+
 - intent: mental_health_distraction
   examples: |
     - How can I use distraction to manage difficult thoughts or feelings?

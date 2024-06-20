@@ -149,6 +149,7 @@ intents:
   - recommend_mental_wellbeing_books
   - recommend_regular_books
 
+
 entities:
   - sleep
 
@@ -167,20 +168,20 @@ responses:
   - text: "Hey! How are you?"
 
   utter_cheer_up:
-  - text: "Here is something to cheer you up:"
+  - text: "I,m here for you!Remember,tough times don't last forever,abd you're strong to get through this.You've got this.And hey if you need anything I'm just a text away!"
 
 
   utter_did_that_help:
   - text: "Did that help you?"
 
   utter_happy:
-  - text: "Great, carry on!"
+  - text: "I am glad to hear that you are happy!Let me know if you want anything more."
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "Bye!If you ever want to talk,I'll be here.Take care and have a wonderful day!"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "Just a virtual friend here to chat with you.If you want to talk or have any questions,feel free to reach out.Let's keep the conversation going!"
 
   utter_thanks:
   - text: "You're welcome.Anytime!Anything more?"
@@ -343,7 +344,6 @@ Tips for Management: To address financial anxiety, create a realistic budget and
   utter_suicide:
     - text: "It's important to take these feelings seriously. You're not alone, and there are people who care about you. Please consider reaching out to a trusted friend, family member, or mental health professional. If you're in immediate danger, please call emergency services or a suicide hotline.\nIn case of immediate danger,take seriously and contact hotline.The National Suicide Prevention Lifeline in India is called AASRA and their helpline number is 91-9820466726.\nCHECK THIS-----*****http://aasra.info/helpline.html****-----CHECK THIS\nMumbai: I Call – 022-25521111 (Monday to Saturday, 8 am to 10 pm)\nTelangana: Roshini – 040-66202000 (9 am to 11 pm)\nTamil Nadu: Sneha – 044-24640059 (24/7).IT'S IMPORTANT TO TAKE THESE FEELINGS SERIOUSLY.Approach someone compulsorily!"
     - text: "I'm sorry to hear that. It's important that you know that you are not alone. Please talk to someone you trust about your feelings, or contact a professional for help.In case of immediate danger,take seriously and contact hotline.The National Suicide Prevention Lifeline in India is called AASRA and their helpline number is 91-9820466726.\nCHECK THIS-----*****http://aasra.info/helpline.html****-----CHECK THIS\nMumbai: I Call – 022-25521111 (Monday to Saturday, 8 am to 10 pm)\nTelangana: Roshini – 040-66202000 (9 am to 11 pm)\nTamil Nadu: Sneha – 044-24640059 (24/7).IT'S IMPORTANT TO TAKE THESE FEELINGS SERIOUSLY.Approach someone compulsorily! "
-
     - text: "I am sorry you are feeling that way. But I still believe in you and assure everything will be alright. Just hanging in there mate. If you are still felling that way its better to reach to professionals and seek for help. Because I believe that life is worth living for yourself.In case of immediate danger,take seriously and contact hotline.The National Suicide Prevention Lifeline in India is called AASRA and their helpline number is 91-9820466726.\nCHECK THIS-----*****http://aasra.info/helpline.html****-----CHECK THIS\nMumbai: I Call – 022-25521111 (Monday to Saturday, 8 am to 10 pm)\nTelangana: Roshini – 040-66202000 (9 am to 11 pm)\nTamil Nadu: Sneha – 044-24640059 (24/7).IT'S IMPORTANT TO TAKE THESE FEELINGS SERIOUSLY.Approach someone compulsorily!"
 
   utter_worthless:
@@ -910,6 +910,7 @@ Tips for Management: To address financial anxiety, create a realistic budget and
               “The Guest House” by Rumi is a profound poem that uses the metaphor of a guest house to describe the human experience. It suggests that we should welcome all emotions, whether positive or negative, as they are all part of being human. Each emotion is seen as a visitor, teaching us something valuable about ourselves and life. By embracing them, we can learn and grow from the experiences they bring. The poem encourages acceptance, openness, and the understanding that even challenging emotions have a purpose in shaping our journey 🏡💭🌱"
   utter_story:
     - text: "In the heart of a sprawling city, where skyscrapers kissed the clouds and the streets hummed with the rhythm of life, there lived a young woman named Aria. Born and raised amidst the concrete jungle, Aria was a city girl through and through – street-smart, ambitious, and unafraid to chase her dreams.\nFrom a young age, Aria knew she wanted to make a difference in the world. Armed with a fierce determination and a heart full of empathy, she embarked on a journey to bring positive change to her community.\nDespite the challenges she faced – the long hours, the competitive environment, and the occasional setback – Aria remained unwavering in her pursuit of justice and equality. Whether she was advocating for the rights of marginalized groups or volunteering at local shelters, she approached every endeavor with a sense of purpose and passion.\nBut beneath her strong exterior, Aria carried a deep well of empathy for those around her. She listened to the stories of strangers on the subway, offered a helping hand to those in need, and stood up for the voiceless and oppressed. In a city where it was easy to feel lost and alone, Aria was a beacon of light, spreading kindness and compassion wherever she went.\nAs the years passed, Aria's efforts began to bear fruit. She watched with pride as her community came together to support one another, bridging the gaps between race, gender, and socioeconomic status. And though the work was far from over, Aria knew that she had played a part in creating a city where everyone felt seen, heard, and valued.\nThrough her strength, resilience, and unwavering empathy, Aria showed the world that even in the midst of chaos, there was always room for kindness, compassion, and positive change. And as she looked out at the city skyline, Aria knew that she was exactly where she was meant to be – making a difference, one small act of kindness at a time."
+
   utter_mental_illness_professional:
     - text:
         "Finding the right mental health professional is important. Here are some steps and options:
